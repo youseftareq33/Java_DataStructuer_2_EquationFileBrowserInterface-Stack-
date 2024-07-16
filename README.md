@@ -11,4 +11,4 @@ which are then converted to postfix.
 
 The program also checks whether the equation is balanced or invalid.
 
-## Note that there is app_photo folder
+## Note that there is app_photo folder.
